@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Danilo-Palacio
-- 👀 I’m interested in Design e Criação de Softwares
-- 🌱 I’m currently learning ...  UX/UI Design, Python, HTML5 e CSS3
-- 📫 How to reach me ...https://www.linkedin.com/in/danilo-palacio-b59037158/
+- 👋 Olá!, Sou @Danilo-Palacio
+- 👀 Pretendo trabalhar com Design e Criação de Softwares
+- 🌱 estou em constante aprendizagem  ...  UX/UI Design, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...
+- 
+- 📫 Quer me conhecer melhor? ...https://www.linkedin.com/in/danilo-palacio-b59037158/
 - Dê uma olhada em meus projetos! https://danilo-palacio.github.io/#
+- Meu Behance https://www.behance.net/DaniloPalacio
 
 <!---
 Danilo-Palacio/Danilo-Palacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
