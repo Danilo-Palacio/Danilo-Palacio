@@ -1,13 +1,8 @@
 - 👋 Olá!, Sou @Danilo-Palacio
 - 👀 Pretendo trabalhar com Design e Criação de Softwares
 - 🌱 estou em constante aprendizagem  ...  UX/UI Design, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...
-- 
-- Meu Behance https://www.behance.net/DaniloPalacio
 
-<!---
-Danilo-Palacio/Danilo-Palacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-palacio/)
@@ -40,3 +35,10 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danilo-Palacio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+<!---
+Danilo-Palacio/Danilo-Palacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
