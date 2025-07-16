@@ -1,13 +1,16 @@
-- 👋 Olá!, Sou @Danilo-Palacio
-- 👀 Pretendo trabalhar com Design e Criação de Softwares
-- 🌱 estou em constante aprendizagem  ...  UX/UI Design, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...
+# Danilo Carvalho Palacio
 
+- 👀 Disposto a trabalhar com Criação de Softwares e Design;
+- 🌱 estou em constante aprendizagem  ...  Experiencia com UX/UI Design, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...;
+- 💼 Atualmente trabalhando com Coordenação de equipe de vendas;
+- 📚 Ultimo semestre em Marketing.
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-palacio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danilo-palacio)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:danilo-palacio@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
+[![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://www.behance.net/DaniloPalacio)
 
 
 
@@ -36,9 +39,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danilo-Palacio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-
-<!---
-Danilo-Palacio/Danilo-Palacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Minhas Contribuições
