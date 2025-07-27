@@ -39,7 +39,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema Bancário](https://github.com/seu-usuario/projetos-estudo) | Repositório com vários projetos do Bootcamp "DIO & Suzano - Python Developer" | Python |
+| [Sistema Bancário](https://github.com/Danilo-Palacio/projetos_python_DIO) | Repositório com vários projetos do Bootcamp "DIO & Suzano - Python Developer" | Python |
 
 > *💡 Todos os projetos foram feitos com foco em aprendizado real: pensar, testar, quebrar e resolver.*
 
