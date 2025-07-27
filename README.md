@@ -1,9 +1,13 @@
 # Danilo Carvalho Palacio
 
-- 👀 Disposto a trabalhar com Criação de Softwares e Design;
-- 🌱 estou em constante aprendizagem  ...  Experiencia com UX/UI Design, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...;
+- 🎯 Foco atual: me tornar empregável como desenvolvedor backend ou areas correlatas a Desenvolvimento de Softwares e Design;
+- 🌱 estou em constante aprendizagem  ...  Experiencia com UX/UI Design, Python, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...;
 - 💼 Atualmente trabalhando com Coordenação de equipe de vendas;
 - 📚 Ultimo semestre em Marketing.
+- 📌 Estudando: Python, automações, Tkinter, Selenium, Pandas
+- 🧪 Gosto de aprender resolvendo problemas reais
+- 📘 Sempre buscando melhorar, errando, refatorando e evoluindo
+
 
 ## Conecte-se Comigo
 
@@ -11,7 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
 [![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://www.behance.net/DaniloPalacio)
-
 
 
 ## Habilidades
@@ -28,6 +31,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+
 ### Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
