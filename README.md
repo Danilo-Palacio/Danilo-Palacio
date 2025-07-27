@@ -35,8 +35,16 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## GitHub Stats
+## 🔥 Principais Projetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danilo-Palacio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Divisor de Planilhas](https://github.com/seu-usuario/divisor-planilhas) | Divide planilhas Excel em partes, com seleção de colunas e interface gráfica | Python, Tkinter, Pandas |
+| [Distribuidor de Leads](https://github.com/seu-usuario/distribuidor-leads) | Sistema com Selenium que envia leads de forma automatizada por e-mail | Python, Selenium |
+| [Projetos de Estudo](https://github.com/seu-usuario/projetos-estudo) | Repositório com vários projetos pequenos que fiz para praticar | Python, Vários |
+
+> *💡 Todos os projetos foram feitos com foco em aprendizado real: pensar, testar, quebrar e resolver.*
+
+---
 
 ## Minhas Contribuições
