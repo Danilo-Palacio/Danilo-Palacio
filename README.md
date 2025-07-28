@@ -8,7 +8,7 @@
 - 📘 Sempre buscando melhorar, errando, refatorando e evoluindo
 
 Github (EM CONSTRUÇÃO)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Danilo-Palacio](https://danilo-palacio.github.io/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://danilo-palacio.github.io/)
 
 ## Conecte-se Comigo
 
