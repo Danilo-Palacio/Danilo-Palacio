@@ -42,7 +42,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema Bancário](https://github.com/Danilo-Palacio/projetos_python_DIO) | Repositório com vários projetos do Bootcamp "DIO & Suzano - Python Developer" | Python |
+| [Bootcamps DIO](https://github.com/Danilo-Palacio/projetos_python_DIO) | Repositório com vários projetos do Bootcamp "DIO & Suzano - Python Developer" | Python |
+| [Gerador de Códigos - Extensão Google Chrome ](https://github.com/Danilo-Palacio/Gerador_de_codigos_CTN) | Uma extensão para Google Chrome criada para automatizar tarefas repetitivas. | Javascript |
 
 > *💡 Todos os projetos foram feitos com foco em aprendizado real: pensar, testar, quebrar e resolver.*
 
