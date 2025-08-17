@@ -47,7 +47,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema bancário](https://github.com/Danilo-Palacio/projetos_python_DIO) | O sistema foi iniciado no Bootcamp “DIO & Suzano - Python Developer” como prática de fundamentos da linguagem Python, sendo posteriormente expandido para contemplar funcionalidades adicionais de gestão de usuários e contas. | Python |
+| [Sistema bancário](https://github.com/Danilo-Palacio/projetos_python_DIO/blob/main/main.py) | O sistema foi iniciado no Bootcamp “DIO & Suzano - Python Developer” como prática de fundamentos da linguagem Python, sendo posteriormente expandido para contemplar funcionalidades adicionais de gestão de usuários e contas. | Python |
 | [Bootcamps DIO](https://github.com/Danilo-Palacio/projetos_python_DIO) | Repositório com vários projetos do Bootcamp "DIO & Suzano - Python Developer" | Python |
 | [Gerador de Códigos - Extensão Google Chrome ](https://github.com/Danilo-Palacio/Gerador_de_codigos_CTN) | Uma extensão para Google Chrome criada para automatizar tarefas repetitivas. | Javascript |
 
