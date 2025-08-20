@@ -1,4 +1,4 @@
-# Danilo Carvalho Palacio
+# Danilo Vinicius Carvalho Palacio
 
 - 🎯 Foco atual: me tornar empregável como desenvolvedor backend ou areas correlatas a Desenvolvimento de Softwares e Design;
 - 🌱 estou em constante aprendizagem  ...  Experiencia com UX/UI Design, Python, Javascript, HTML5 e CSS3, Figma, Photoshop, Illustrator...;
